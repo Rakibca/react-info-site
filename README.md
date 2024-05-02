@@ -1,4 +1,4 @@
-# cdGeRWHq
+# React Info Site
 
 Quick start:
 

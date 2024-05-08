@@ -15,9 +15,9 @@ Hints:
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Header from "./Header.jsx";
-import App from "./App.jsx";
-import Footer from "./Footer.jsx";
+import Header from "./Header";
+import App from "./App";
+import Footer from "./Footer";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
